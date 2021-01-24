@@ -1,7 +1,9 @@
-# SAO Template
+# SAO Dynamic Programming
 
-This is my template repository
+Some problems in dynamic programming (and general programming) that I have worked through
 
-## H2 Headings like this
+## Python
 
-- Bullet points
+- Dijkstra's Algorithm
+- FizzBuzz (lol)
+- Longest Increasing Subsequence
